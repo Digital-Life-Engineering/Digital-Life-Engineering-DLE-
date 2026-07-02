@@ -13,8 +13,6 @@ status: Released
 title: Genesis v0.1 --- Repository Bootstrap
 title_zh: 创世 v0.1 ------ 仓库引导
 version: genesis-v0.1
----
-
 # Genesis v0.1 --- Repository Bootstrap
 
 # 创世 v0.1 ------ 仓库引导
@@ -82,7 +80,3 @@ Genesis v0.2 ------ Foundation Content Sprint
 -   GLOSSARY
 
 **Project Genesis begins here.**
-
----
-
-> 本内容由 Coze AI 生成，请遵循相关法律法规及《人工智能生成合成内容标识办法》使用与传播。
